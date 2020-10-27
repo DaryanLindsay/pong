@@ -3,7 +3,7 @@ void keyPressed() {
   if (key=='s'|| key=='S') skey = true;
   if (keyCode== UP) upkey = true;
   if(keyCode== DOWN) downkey=true;
-  
+
 }
 
 void keyReleased() {
